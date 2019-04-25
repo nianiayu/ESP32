@@ -13,5 +13,5 @@
     拉工程:　git pull
     提交: git status 查看修改
 　　　　  git add modfiy.c ...
-          git commit -m "修改注释"
+          git commit -m "修改注释说明"
           git push origion master/branch 　入库
