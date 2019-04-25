@@ -5,3 +5,7 @@
    a. screen /dev/ttyUSB0 115200
    b. minicom --baudrate 115200 --device /dev/ttyUSB0
    c. cat /dev/ttyUSB0
+
+
+2.  更新branch : git fetch
+    切换branch : git checkout DebugBranch
