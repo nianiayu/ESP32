@@ -1,0 +1,7 @@
+
+
+1. Using UART on LINUX
+   
+   a. screen /dev/ttyUSB0 115200
+   b. minicom --baudrate 115200 --device /dev/ttyUSB0
+   c. cat /dev/ttyUSB0
