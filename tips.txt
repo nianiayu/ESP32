@@ -5,3 +5,13 @@
    a. screen /dev/ttyUSB0 115200
    b. minicom --baudrate 115200 --device /dev/ttyUSB0
    c. cat /dev/ttyUSB0
+
+
+2.  拉分支: git fetch
+    切分支: git checkout branch
+    查看分支: git branch
+    拉工程:　git pull
+    提交: git status 查看修改
+　　　　  git add modfiy.c ...
+          git commit -m "修改注释"
+          git push origion master/branch 　入库
