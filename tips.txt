@@ -7,5 +7,11 @@
    c. cat /dev/ttyUSB0
 
 
-2.  更新branch : git fetch
-    切换branch : git checkout DebugBranch
+2.  拉分支: git fetch
+    切分支: git checkout branch
+    查看分支: git branch
+    拉工程:　git pull
+    提交: git status 查看修改
+　　　　  git add modfiy.c ...
+          git commit -m "修改注释说明"
+          git push origion master/branch 　入库
